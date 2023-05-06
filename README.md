@@ -2,7 +2,16 @@
 
 Klipper config for Voron Switchwire. BTT SKR 1.4 + 4x TMC2209
 
-Current config version tested with Klipper v0.11.0-89-gead81fbf
+### Current Config Version Environment
+
+```
+klipper v0.11.0-197-ga3eebab4
+crowsnest v3.0.7-3-g20ed6a8
+mainsail-config v1.0.0-11-ge4976f6
+moonraker v0.8.0-39-g6c7dfe5
+sonar v0.1.2-0-g7962a12
+mainsail v2.5.1
+```
 
 ## Hardware
 
